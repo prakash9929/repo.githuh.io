@@ -1,0 +1,39 @@
+  body{
+        background-color: indigo;
+    }
+    .box{
+        border-color: indigo;
+        size: 300px;
+      height: 50px;
+      width: 380px;
+      color: rgb(40, 107, 13);
+      font-size: 40px;
+      position: relative;
+      margin-left: 35%;
+      margin-top: 3%;
+      background-color: white;
+    }
+    .butt{
+        height: 40px;
+        width: 380px;
+        opacity: 50%;
+        border-color: indigo;
+        text-decoration-color: white;
+        font-weight: 150;
+        margin-left: 35%;
+        margin-top: 3%;
+        font-size: 25px;
+        background-color: white;
+
+    }
+    :-ms-input-placeholder {
+color: red;
+}
+.head{
+    text-align: center; 
+    color: rgb(255, 255, 255);
+     font-size: 100px;
+      font-style: italic;
+     text-decoration-line: underline;
+}
+body{color: greenyellow;}
